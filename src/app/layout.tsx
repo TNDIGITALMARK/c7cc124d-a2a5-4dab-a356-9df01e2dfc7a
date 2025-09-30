@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "ShoeVault - Premium Footwear Collection",
+  description: "Discover your perfect fit with our curated collection of premium shoes. Expert sizing guides, customer reviews, and hassle-free exchanges.",
 };
 
 export default function RootLayout({
