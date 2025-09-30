@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2025-09-30T22:33:23.960Z",
+  "generatedBy": "Phoenix BuildTimeTrackingManager",
+  "version": "1.0.0",
+  "assets": [
+    {
+      "fileName": "phoenix-tracking.js",
+      "type": "js",
+      "size": 24498,
+      "hash": "7ab3b54ce5094c64956acc71139dddfafc5dc6926957debe5c34831369dc4c7a"
+    },
+    {
+      "fileName": "phoenix-tracking.css",
+      "type": "css",
+      "size": 12077,
+      "hash": "3a6eae5bc06e62c9c8a0b6c279424e8b0bb5a3f267d3b98faf81b97ab9cdfe2f"
+    }
+  ]
+}
